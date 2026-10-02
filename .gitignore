@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output artifacts and presentation
+output/
+*.pptx
+*.png
+
+# Local-only heavy data
+data/raw/*.parquet
+
+# Optional: keep local scripts and presentation builder out of GitHub if desired
+# scripts/
+# src/presentation/
