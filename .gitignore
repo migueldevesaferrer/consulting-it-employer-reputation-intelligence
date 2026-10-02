@@ -22,7 +22,8 @@ output/
 *.pptx
 *.png
 
-# Local-only heavy data and presentation logic
+# Local-only heavy data, exercise brief, and presentation logic
 data/raw/*.parquet
+docs/*.pdf
 scripts/
 src/presentation/

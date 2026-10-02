@@ -9,16 +9,16 @@ El objetivo es evaluar cómo se percibe a Accenture como empleadora en comparaci
 ## Estructura del repositorio
 
 - `notebooks/consulting-it-employer-reputation-intelligence.ipynb` — notebook principal de análisis exploratorio.
-- `docs/` — documentación y material de referencia.
 - `data/raw/` — datos brutos del proyecto. El dataset grande de reseñas se mantiene local y no se publica en GitHub.
 - `requirements.txt` — dependencias necesarias para ejecutar el proyecto.
 - `.gitignore` — exclusiones del entorno local y outputs generados.
 
 ## Assets locales
 
-Los siguientes archivos se mantienen fuera del repositorio público porque son pesados o específicos de la presentación final:
+Los siguientes archivos se mantienen fuera del repositorio público porque son pesados, sensibles o específicos de la presentación final:
 
 - `data/raw/glassdoor_reviews_hr.parquet` — dataset grande usado localmente para el análisis.
+- `docs/Caso_Practico_NLP_Glassdoor_RRHH.pdf` — enunciado del ejercicio, mantenido local por privacidad y para no revelar el origen del caso.
 - `scripts/build_powerpoint.py` — script local para generar la presentación.
 - `src/presentation/` — lógica local de exportación a PowerPoint.
 - `output/` — gráficas y archivos generados.
