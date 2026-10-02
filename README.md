@@ -1,10 +1,10 @@
 # Consulting & IT Employer Reputation Intelligence
 
-Este proyecto analiza la reputación empleadora de Accenture frente a sus principales competidores a partir de reseñas de Glassdoor. La metodología combina minería de texto, análisis de sentimiento, topic modeling y comparación entre empresas para identificar fortalezas, debilidades y oportunidades de mejora en su marca empleadora.
+Este proyecto analiza la reputación de la empleadora de Accenture frente a sus principales competidores a partir de reseñas de Glassdoor. La metodología combina procesamiento del lenguaje natural, análisis de sentimiento, modelado de tópicos y comparación entre empresas para identificar fortalezas, debilidades y oportunidades de mejora en la percepción de la marca empleadora.
 
 ## Objetivo del proyecto
 
-El objetivo es evaluar cómo percibe Accenture a sus empleados y candidatos en comparación con empresas del mismo sector, identificando los temas recurrentes en las reseñas y transformando esos resultados en una narrativa clara y útil para stakeholders o equipos de RRHH.
+El objetivo es evaluar cómo se percibe a Accenture como empleadora en comparación con otras empresas del mismo sector, identificando los temas recurrentes en las reseñas y transformando esos resultados en una narrativa clara y útil para stakeholders o equipos de RRHH.
 
 ## Estructura del repositorio
 
