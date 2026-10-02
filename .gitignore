@@ -22,9 +22,7 @@ output/
 *.pptx
 *.png
 
-# Local-only heavy data
+# Local-only heavy data and presentation logic
 data/raw/*.parquet
-
-# Optional: keep local scripts and presentation builder out of GitHub if desired
-# scripts/
-# src/presentation/
+scripts/
+src/presentation/
