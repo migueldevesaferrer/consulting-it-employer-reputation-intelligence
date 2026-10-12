@@ -27,3 +27,7 @@ data/raw/*.parquet
 docs/*.pdf
 scripts/
 src/presentation/
+
+# README figures are committed so GitHub can render them
+!docs/images/
+!docs/images/*.png
